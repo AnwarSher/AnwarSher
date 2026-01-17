@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 💻 About Me<br><br>I’m a Software Engineering student and Full-Stack Developer passionate about building impactful, user-friendly, and scalable digital solutions. My journey in tech has been driven by curiosity, creativity, and a desire to solve real-world problems through code.<br><br>I’ve worked on several projects ranging from e-commerce platforms to intelligent web applications, focusing on both frontend design and backend functionality. With hands-on experience in technologies like React, Node.js, Express, MongoDB, and SQL, I enjoy bringing ideas to life through clean, efficient, and well-structured code.<br><br>Beyond development, I’m deeply interested in cloud computing, data-driven systems, and mobile app development, constantly exploring new tools and frameworks to expand my skill set.<br><br>✨ I believe in continuous learning, collaboration, and innovation — always striving to turn concepts into creative, real-world solutions.<br><br>🚀 Let’s connect and create something amazing together!
 
 
