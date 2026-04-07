@@ -1,4 +1,5 @@
-# 💫 Backend Engineer | Software Engineering Student
+# 💫 Backend Engineer 
+Software Engineering Student
 
 💻 About Me<br><br>I'm a Software Engineering student and **Backend Engineer** specializing in designing and building scalable, high-performance server-side systems. My passion lies in architecting robust APIs, optimizing database performance, and solving complex infrastructure challenges that power modern applications behind the scenes.<br><br>I've engineered backend solutions for various projects—from e-commerce platforms to real-time data pipelines—focusing heavily on system architecture, security implementation, and query optimization. With deep expertise in **Node.js, Express, NestJS, MongoDB, PostgreSQL, and cloud services like AWS**, I thrive on writing clean, maintainable, and efficient code that scales seamlessly under load.<br><br>Beyond core development, I'm deeply invested in **microservices architecture, message queuing systems, containerization (Docker/Kubernetes), and distributed systems design**—constantly exploring patterns that enhance reliability, fault tolerance, and observability.<br><br>✨ I believe in building systems that are not just functional, but resilient, secure, and future-proof—turning complex requirements into elegant backend solutions.<br><br>🚀 Let's architect something powerful together!
 
